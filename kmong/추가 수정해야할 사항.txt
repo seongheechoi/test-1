@@ -1,0 +1,10 @@
+1) 메뉴 버튼 클릭햇을 때, L1_table에 설정언어에 맞게끔 들어가야함
+ - 현재는 한글로만 들어감
+2) history 불러오기 error남
+- 오류 발생: 'utf-8' codec can't decode byte 0xb8 in position 57: invalid start byte
+3) 기타 버그 검증
+
+
+
+* 언어변경 위치는 괜찮은 거 같아서 안 바꿧어요
+
